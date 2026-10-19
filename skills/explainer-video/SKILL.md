@@ -1,6 +1,6 @@
 ---
 name: explainer-video
-description: Make an explainer video with Vidova, the AI video editor. Use when someone asks for an explainer: an idea, a product, a process, a lesson or a set of facts turned into a short animated story with a voiceover or on-screen words. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make an explainer video with Vidova, the AI video editor. Use when someone asks for an explainer: an idea, a product, a process, a lesson or a set of facts turned into a short animated story with a voiceover or on-screen words. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/explainer

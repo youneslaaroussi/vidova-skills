@@ -1,7 +1,7 @@
 {
   "name": "vidova",
   "displayName": "Vidova",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
   "author": {
     "name": "Younes Laaroussi"

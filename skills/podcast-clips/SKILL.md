@@ -1,6 +1,6 @@
 ---
 name: podcast-clips
-description: Make short captioned clips from a long talk with Vidova, the AI video editor. Use when someone asks for clips from a podcast, an interview, a panel, a talking head, a livestream or a webinar, cut into vertical shorts or a YouTube cut. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make short captioned clips from a long talk with Vidova, the AI video editor. Use when someone asks for clips from a podcast, an interview, a panel, a talking head, a livestream or a webinar, cut into vertical shorts or a YouTube cut. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/podcast-clips

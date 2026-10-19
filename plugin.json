@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vidova",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
   "author": {
     "name": "Younes Laaroussi",

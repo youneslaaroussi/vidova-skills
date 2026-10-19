@@ -1,6 +1,6 @@
 ---
 name: sports-highlights
-description: Make a sports or fitness video with Vidova, the AI video editor. Use when someone asks for match highlights, a player edit, a game day video, a training or gym reel, a race or a season recap. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a sports or fitness video with Vidova, the AI video editor. Use when someone asks for match highlights, a player edit, a game day video, a training or gym reel, a race or a season recap. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/sports-highlights

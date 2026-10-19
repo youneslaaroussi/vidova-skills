@@ -1,6 +1,6 @@
 ---
 name: beat-sync-edit
-description: Make a beat-synced edit with Vidova, the AI video editor. Use when someone asks for an edit cut hard to a song: a fan edit, a car or bike edit, a gaming, anime or movie montage, a phonk or hype edit. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a beat-synced edit with Vidova, the AI video editor. Use when someone asks for an edit cut hard to a song: a fan edit, a car or bike edit, a gaming, anime or movie montage, a phonk or hype edit. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/beat-edit

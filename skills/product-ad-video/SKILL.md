@@ -1,6 +1,6 @@
 ---
 name: product-ad-video
-description: Make a short product ad with Vidova, the AI video editor. Use when someone asks for a product ad, a UGC-style ad, a launch or drop video, or a promo with a price or offer, from product footage or photos, for Reels, TikTok, Shorts or a store page. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a short product ad with Vidova, the AI video editor. Use when someone asks for a product ad, a UGC-style ad, a launch or drop video, or a promo with a price or offer, from product footage or photos, for Reels, TikTok, Shorts or a store page. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/product-ad

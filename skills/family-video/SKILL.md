@@ -1,6 +1,6 @@
 ---
 name: family-video
-description: Make a family video with Vidova, the AI video editor. Use when someone asks for a family edit from the person's own clips and photos: a summer, a holiday, a year with the kids, a tribute, a wedding or an anniversary. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a family video with Vidova, the AI video editor. Use when someone asks for a family edit from the person's own clips and photos: a summer, a holiday, a year with the kids, a tribute, a wedding or an anniversary. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/family-edit

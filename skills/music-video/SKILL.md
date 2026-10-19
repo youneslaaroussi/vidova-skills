@@ -1,6 +1,6 @@
 ---
 name: music-video
-description: Make a music video with Vidova, the AI video editor. Use when someone asks for a music video, a visualizer, a lyric video or a song teaser for the person's own song, from their clips, generated shots or both. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a music video with Vidova, the AI video editor. Use when someone asks for a music video, a visualizer, a lyric video or a song teaser for the person's own song, from their clips, generated shots or both. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/music-video

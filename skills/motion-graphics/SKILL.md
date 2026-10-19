@@ -1,6 +1,6 @@
 ---
 name: motion-graphics
-description: Make a motion graphics piece with Vidova, the AI video editor. Use when someone asks for animated type, shapes, numbers and logos for a launch, an announcement, a promo, stats or a brand sting, with or without footage. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a motion graphics piece with Vidova, the AI video editor. Use when someone asks for animated type, shapes, numbers and logos for a launch, an announcement, a promo, stats or a brand sting, with or without footage. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/motion-graphics

@@ -1,6 +1,6 @@
 ---
 name: event-recap-video
-description: Make an event recap with Vidova, the AI video editor. Use when someone asks for a recap or aftermovie of an event or a year: a party, a festival, a conference, a launch, a team or school year, or a community celebration. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make an event recap with Vidova, the AI video editor. Use when someone asks for a recap or aftermovie of an event or a year: a party, a festival, a conference, a launch, a team or school year, or a community celebration. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/event-recap

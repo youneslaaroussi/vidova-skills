@@ -1,6 +1,6 @@
 ---
 name: travel-recap-video
-description: Make a travel recap with Vidova, the AI video editor. Use when someone asks for a trip video from the person's clips: a holiday, a road trip, a city break or a honeymoon, with the places on a map or in titles, cut to the beat. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a travel recap with Vidova, the AI video editor. Use when someone asks for a trip video from the person's clips: a holiday, a road trip, a city break or a honeymoon, with the places on a map or in titles, cut to the beat. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/travel-recap

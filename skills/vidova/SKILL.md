@@ -1,6 +1,6 @@
 ---
 name: vidova
-description: Edit videos with Vidova, an AI video editor with a real timeline. Cut clips, add captions, music, voiceover, motion graphics and effects, and render in the cloud. Use when someone wants a video made or edited from their footage, photos or an idea.
+description: "Edit videos with Vidova, an AI video editor with a real timeline. Cut clips, add captions, music, voiceover, motion graphics and effects, and render in the cloud. Use when someone wants a video made or edited from their footage, photos or an idea."
 license: MIT
 metadata:
   mcp-server: https://mcp.vidova.ai/mcp

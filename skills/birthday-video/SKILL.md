@@ -1,6 +1,6 @@
 ---
 name: birthday-video
-description: Make a birthday video with Vidova, the AI video editor. Use when someone asks for a birthday reel, a montage of photos and wishes, a surprise from friends or family, or a milestone age. Vidova cuts, captions, animates, adds music and renders the video in the cloud.
+description: "Make a birthday video with Vidova, the AI video editor. Use when someone asks for a birthday reel, a montage of photos and wishes, a surprise from friends or family, or a milestone age. Vidova cuts, captions, animates, adds music and renders the video in the cloud."
 license: MIT
 metadata:
   vidova-guide: skills/birthday-video
