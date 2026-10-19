@@ -1,0 +1,23 @@
+{
+  "name": "vidova",
+  "displayName": "Vidova",
+  "version": "1.0.0",
+  "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
+  "author": {
+    "name": "Younes Laaroussi"
+  },
+  "homepage": "https://vidova.ai",
+  "repository": "https://github.com/youneslaaroussi/vidova-skills",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "video-editing",
+    "mcp",
+    "ai-video",
+    "captions",
+    "motion-graphics"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./.cursor-plugin/mcp.json"
+}

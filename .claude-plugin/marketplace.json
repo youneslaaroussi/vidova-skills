@@ -1,0 +1,15 @@
+{
+  "name": "vidova",
+  "owner": {
+    "name": "Younes Laaroussi",
+    "url": "https://vidova.ai"
+  },
+  "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
+  "plugins": [
+    {
+      "name": "vidova",
+      "source": "./",
+      "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline."
+    }
+  ]
+}

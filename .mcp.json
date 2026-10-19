@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vidova": {
+      "type": "http",
+      "url": "https://mcp.vidova.ai/claude"
+    }
+  }
+}

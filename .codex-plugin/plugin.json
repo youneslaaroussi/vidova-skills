@@ -1,0 +1,43 @@
+{
+  "name": "vidova",
+  "version": "1.0.0",
+  "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
+  "author": {
+    "name": "Younes Laaroussi",
+    "url": "https://vidova.ai"
+  },
+  "homepage": "https://vidova.ai",
+  "repository": "https://github.com/youneslaaroussi/vidova-skills",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "video-editing",
+    "mcp",
+    "ai-video",
+    "captions",
+    "motion-graphics"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json",
+  "interface": {
+    "displayName": "Vidova",
+    "shortDescription": "Edit videos with an AI agent",
+    "longDescription": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
+    "developerName": "Younes Laaroussi",
+    "category": "Creativity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://vidova.ai",
+    "privacyPolicyURL": "https://vidova.ai/privacy",
+    "termsOfServiceURL": "https://vidova.ai/terms",
+    "defaultPrompt": [
+      "Cut these clips into a 30-second product ad with music and captions",
+      "Add animated captions to my talking-head video and render it",
+      "Make a beat-synced travel recap from my clips"
+    ],
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

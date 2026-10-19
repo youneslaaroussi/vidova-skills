@@ -1,0 +1,10 @@
+{
+  "name": "vidova",
+  "version": "1.0.0",
+  "description": "Edit videos with an AI agent: cut, caption, animate, add music and render on a real timeline.",
+  "mcpServers": {
+    "vidova": {
+      "httpUrl": "https://mcp.vidova.ai/mcp"
+    }
+  }
+}
