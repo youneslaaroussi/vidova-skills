@@ -20,5 +20,7 @@
   ],
   "icon": "./assets/logo.png",
   "privacyPolicyUrl": "https://vidova.ai/privacy",
-  "termsOfServiceUrl": "https://vidova.ai/terms"
+  "termsOfServiceUrl": "https://vidova.ai/terms",
+  "supportUrl": "https://vidova.ai/support",
+  "documentationUrl": "https://vidova.ai/docs/mcp"
 }
