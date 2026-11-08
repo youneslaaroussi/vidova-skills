@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Vidova" width="96" align="right">
 
-Vidova is an AI video editor that your agent drives. Ask for a product ad, podcast clips, a travel recap or a music video, and the agent cuts your footage on a real timeline, adds captions, music, voiceover, motion graphics and effects, and renders the video in the cloud. You can open every project in the web editor at [editor.vidova.ai](https://editor.vidova.ai) and keep editing by hand.
+Vidova is an AI video editor that your agent drives. Ask for a product ad, podcast clips, a travel recap or a music video, and the agent cuts your footage on a real timeline, adds captions, music, motion graphics and effects, and renders the video in the cloud. You can open every project in the web editor at [editor.vidova.ai](https://editor.vidova.ai) and keep editing by hand.
 
 This repository holds the Vidova MCP server configuration and the Vidova skills for Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Kiro and other agents.
 
@@ -27,13 +27,13 @@ npx skills add youneslaaroussi/vidova-skills
 gemini extensions install https://github.com/youneslaaroussi/vidova-skills
 ```
 
-**Any MCP client**
+**Any other MCP client**
 
-Add a remote MCP server with this URL and sign in with your Vidova account when the client asks:
+The setup for each client is at https://vidova.ai/docs/mcp.
 
-```
-https://mcp.vidova.ai/mcp
-```
+## What it does
+
+The plugin connects your agent to Vidova's MCP server at mcp.vidova.ai, and you sign in with a Vidova account. The agent works on the footage you provide. Your files and projects are stored in your Vidova account, and you can open each project in the web editor at https://editor.vidova.ai. Actions use credits from your plan. The skills are plain instructions: they run no scripts and send nothing to any other service.
 
 ## Skills
 
@@ -45,7 +45,7 @@ https://mcp.vidova.ai/mcp
 | `music-video` | A music video, visualizer or lyric video |
 | `travel-recap-video` | A trip video with places on a map or in titles |
 | `birthday-video` | A birthday reel or a montage of photos and wishes |
-| `explainer-video` | A short animated explainer with voiceover or on-screen words |
+| `explainer-video` | A short animated explainer with your own voice or on-screen words |
 | `motion-graphics` | Animated type, numbers and logos for a launch or promo |
 | `sports-highlights` | Match highlights, player edits and training reels |
 | `event-recap-video` | An event recap or aftermovie |
